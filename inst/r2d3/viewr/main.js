@@ -11,7 +11,7 @@ const image_size = Object.assign({width: 300, height: 300}, output_size);
 
 const shutter_text = {
   taking: 'Sending photo...',
-  ready: 'Take photo!',
+  ready: 'Take a photo!',
 };
 
 const no_camera_message = "Shiny can't get access to cameras. This is a privacy consideration. Make sure you are trying from a secure (https, or localhost) site.";
